@@ -1,3 +1,6 @@
+:stop_sign: DEPRECATED :stop_sign:
+Further deveolpment happens [here](https://gitlab.gwdg.de/orca-helpers/orca-helpers/)
+
 # orcaSyntaxVim
 Add some very basic highlighting for orca input files in vim. 
 
